@@ -1,0 +1,12 @@
+Uncle bob clean code
+
+
+rule -
+	clean code (write a function that can be read and understand by other reader but it does not need to be work)
+	Rules of function
+		1 . Understandable name
+		2 . short
+		3 . low to high abc layer
+		4 . arguments not more than 3
+			 arguments shoud not be -boolean
+			 											 -output arguments
